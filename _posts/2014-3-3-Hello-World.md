@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Test!!!! 
+title: Hello world!
 ---
 
-Testing using jeykll to make a website.
-a list of todos
+I made a website! 
 
- - adding posts
- - changing styling
- - actually write a blog of sorts
+I had one a long time ago, but it was rather basic and it was hosted on a paid host, that I stopped paying long time ago. Since then I've played with various website makers like Squarespace or Wix, But never wanted to pay for it as I don't get that much use out of it. This time around I noticed github pages supports Jeykll, and thought I'd try it out. 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+This is basically made with https://github.com/barryclark/jekyll-now, which does all the boostrap for you. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Next my plans is to put more of my thoughts on this blog, and change the layout of this page more to my liking, but for a weekend project, this is great!
+
+
