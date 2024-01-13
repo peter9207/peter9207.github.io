@@ -4,11 +4,21 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm a backend developer located in Vancouver, BC Canada. I have experience working with Golang and Node.js server stacks. Fortunatley or unfortunately I have a lot of experience refactoring code, and working/leading small cross functioning teams to build products and bring them to release. 
+
+In my free time I'm a rock climber and golfer, currently learning to hit the driver straight and keep up my mental game throughout the entire 18 holes. 
+
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+ - I'm interested in working on projects with
+ -- golang
+ -- microservices
+ -- graphQL
+ -- functional programming
+ - currently learning Rust
+ - currently looking for a job =\(
+
 
 ### Contact me
 
