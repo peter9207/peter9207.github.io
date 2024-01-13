@@ -22,4 +22,7 @@ In my free time I'm a rock climber and golfer, currently learning to hit the dri
 
 ### Contact me
 
+Please message me at [LinkedIn](https://www.linkedin.com/in/peter-zhang421/)
+
+
 <!-- [email@domain.com](mailto:@gmail.com) -->
