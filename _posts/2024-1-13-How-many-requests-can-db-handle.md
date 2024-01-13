@@ -13,8 +13,9 @@ After that interview, I got very curious in what is a reasonable amount of traff
 A count * query is not ran in a vacuum, aggregations are slow, but the real problem they cause is because they lock the table so other queries cannot run. So I created a small program [here](https://github.com/peter9207/dbcompare) to run some simple queries that might exist in an API server, and have concurrently process that trigger them. To see in a given time how many requests can be ran. 
 
 The result is 
-|read write worker ratio | reads in 5 seconds | writes in 5 seconds|
-|---------------- | ------------------- | -------------------- |
+
+| read write worker ratio | reads in 5 seconds | writes in 5 seconds|
+| ---------------- | ------------------- | -------------------- |
 |5/10 | 13665 | 5980 |
 |10/10 | 22355 | 4763|
 |10/5 | 25861 | 2950| 
